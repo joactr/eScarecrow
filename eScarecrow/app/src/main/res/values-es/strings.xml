@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">eScarecrow</string>
+    <string name="title_dashboard">Aves no deseadas</string>
+    <string name="title_notifications">Historial</string>
+    <string name="cb_selectbutton">Guardar</string>
+    <string name="rOrientation">Recuerda desbloquear la orientación</string>
+    <string name="preview">Vista previa</string>
+    <string name="detected">Pájaro no deseado detectado</string>
+
+    <string name="barn_swallow">Golondrina común</string>
+    <string name="black_redstart">Colirrojo tizón</string>
+    <string name="common_blackbird">Mirlo</string>
+    <string name="common_starling">Estornino pinto</string>
+    <string name="hoopoe">Abubilla</string>
+    <string name="house_sparrow">Gorrión común</string>
+    <string name="rock_dove">Paloma bravia</string>
+    <string name="rose_ringed_parakeet">Cotorra de Kramer</string>
+    <string name="turkish_turtledove">Tórtola turca</string>
+    <string name="white_wagtail">Lavandera blanca</string>
+    <string name="title_home">Inicio</string>
+</resources>

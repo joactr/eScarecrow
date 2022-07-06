@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">eScarecrow</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Unwanted birds</string>
+    <string name="title_notifications">Logs</string>
+    <string name="cb_selectbutton">Save</string>
+    <string name="rOrientation">Remember to unlock device orientation</string>
+    <string name="preview">Preview</string>
+    <string name="detected">Detected unwanted bird</string>
+
+    <string name="barn_swallow">Barn swallow</string>
+    <string name="black_redstart">Black redstart</string>
+    <string name="common_blackbird">Common blackbird</string>
+    <string name="common_starling">Common starling</string>
+    <string name="hoopoe">Hoopoe</string>
+    <string name="house_sparrow">House sparrow</string>
+    <string name="rock_dove">Rock dove</string>
+    <string name="rose_ringed_parakeet">Rose ringed parakeet</string>
+    <string name="turkish_turtledove">Turkish turtledove</string>
+    <string name="white_wagtail">White wagtail</string>
+
+</resources>
